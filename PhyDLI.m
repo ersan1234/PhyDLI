@@ -1,7 +1,7 @@
 %This script reproduces two main figures 
 %It illustrates the prediction improvement from the first training data set to final training data set
-%Authors: Daniele Colombo, Ersan Turkoglu, Diego Rovetta, Ernesto Sandoval Curiel
-%October, 2021
+%Authors: Daniele Colombo, Ersan Turkoglu, Weichang Li, Ernesto Sandoval Curiel, Diego Rovetta
+%September, 2021
 %
 %Load the testing (Alien) data and models
 %Load pretrained neural networks
