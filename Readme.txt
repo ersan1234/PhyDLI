@@ -1,5 +1,5 @@
 COUPLED PHYSICS-DEEP LEARNING INVERSION
-Authors: Daniele Colombo, Ersan Turkoglu, Diego Rovetta, Ernesto Sandoval Curiel
+Authors: Daniele Colombo, Ersan Turkoglu, Weichang Li, Ernesto Sandoval Curiel, Diego Rovetta
 e-mail: ersan.turkoglu@aramco.com
 These codes perform physics-driven deep learning inversion of the transient electromagnetic data
 train_PhyDLI.m Matlab script loads synthetic data and models to train a neural network 
